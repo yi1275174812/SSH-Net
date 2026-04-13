@@ -11,3 +11,4 @@ result/
 *.npz
 *.pth
 *.pt
+paper/*.pdf

@@ -1,6 +1,6 @@
 # SSH-Net
 
-This repository contains the code release for the paper in SSH-Net: Symplectic-Inspired Discrete Dynamic Evolution for
+This repository contains the code release for SSH-Net: Symplectic-Inspired Discrete Dynamic Evolution for
 Hyperspectral Image Classification.
 
 ## Repository layout
